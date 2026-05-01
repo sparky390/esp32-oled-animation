@@ -2,6 +2,14 @@
 
 ESP32 OLED animation project using SSD1306/SSD1106 display.  
 Smooth frame-based animation on 128x64 OLED.
+## 📚 Quick Navigation
+
+- [Preview](#-preview)
+- [Hardware Setup](#-hardware-setup)
+- [Wiring](#-wiring-i2c)
+- [Features](#-features)
+- [How to Run](#-how-to-run)
+- [Notes](#-notes)
 
 ---
 
