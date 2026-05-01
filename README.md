@@ -15,7 +15,9 @@ Smooth frame-based animation on 128x64 OLED.
 
 ## 📸 Preview
 
-![Preview](images/preview.jpg)
+<p align="center">
+  <img src="images/preview.jpg" width="400"/>
+</p>
 
 ---
 
