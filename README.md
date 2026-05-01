@@ -2,7 +2,7 @@
 
 ESP32 OLED animation project using SSD1306/SSD1106 display.  
 Smooth frame-based animation on 128x64 OLED.
-## 📚 Quick Navigation
+##  Quick Navigation
 
 - [Preview](#-preview)
 - [Hardware Setup](#-hardware-setup)
@@ -23,19 +23,23 @@ Smooth frame-based animation on 128x64 OLED.
 
 ## 🔧 Hardware Setup
 
-![Setup](images/setup.jpg)
-
+<p align="center">
+  <img src="images/setup.jpg" width="500"/>
+</p>
 ---
 
 ## 📟 OLED Close-up
 
-![OLED](images/oled_close.jpg)
-
+<p align="center">
+  <img src="images/oled_close.jpg" width="400"/>
+</p>
 ---
 
 ## ⚙️ ESP32 Board
 
-![ESP32](images/esp32_top.jpg)
+<p align="center">
+  <img src="images/esp32_top.jpg" width="400"/>
+</p>
 
 ---
 
@@ -87,8 +91,6 @@ Smooth frame-based animation on 128x64 OLED.
 ## 📌 Notes
 - SSD1106 uses U8g2  
 - Adjust delay for FPS tuning  
-
----
 
 ---
 🔍 Keywords
