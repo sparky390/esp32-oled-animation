@@ -1,4 +1,4 @@
-# ESP32 OLED Animation
+# ESP32 OLED Animation (SSD1306 / SSD1106 | Arduino | I2C Display)
 
 ESP32 OLED animation project using SSD1306/SSD1106 display.  
 Smooth frame-based animation on 128x64 OLED.
