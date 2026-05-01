@@ -95,6 +95,15 @@ Smooth frame-based animation on 128x64 OLED.
   Follow on Instagram: <a href="https://instagram.com/sparky.fpv">@sparky.fpv</a>
 </p>
 
-## 🔍 Keywords
+🔍 Keywords
 
-ESP32 OLED animation, SSD1306 project, SSD1106 display, Arduino ESP32, OLED animation code, I2C display ESP32, embedded systems project, ESP32 graphics, DIY electronics, microcontroller projects
+- ESP32 OLED animation  
+- SSD1306 project  
+- SSD1106 display  
+- Arduino ESP32  
+- OLED animation code  
+- I2C display ESP32  
+- embedded systems project  
+- ESP32 graphics  
+- DIY electronics  
+- microcontroller projects  
