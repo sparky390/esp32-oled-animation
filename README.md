@@ -26,6 +26,7 @@ Smooth frame-based animation on 128x64 OLED.
 <p align="center">
   <img src="images/setup.jpg" width="500"/>
 </p>
+
 ---
 
 ## 📟 OLED Close-up
@@ -33,6 +34,7 @@ Smooth frame-based animation on 128x64 OLED.
 <p align="center">
   <img src="images/oled_close.jpg" width="400"/>
 </p>
+
 ---
 
 ## ⚙️ ESP32 Board
