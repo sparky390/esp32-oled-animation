@@ -1,2 +1,84 @@
-# esp32-oled-animation
-ESP32 OLED animation project using SSD1306/SSD1106 display. Includes frame-based animation, I2C setup, and optimized code for smooth playback on 128x64 OLED screens.
+# ESP32 OLED Animation
+
+ESP32 OLED animation project using SSD1306/SSD1106 display.  
+Smooth frame-based animation on 128x64 OLED.
+
+---
+
+## 📸 Preview
+
+![Preview](images/preview.jpg)
+
+---
+
+## 🔧 Hardware Setup
+
+![Setup](images/setup.jpg)
+
+---
+
+## 📟 OLED Close-up
+
+![OLED](images/oled_close.jpg)
+
+---
+
+## ⚙️ ESP32 Board
+
+![ESP32](images/esp32_top.jpg)
+
+---
+
+## 🛠 Hardware Used
+- ESP32 Dev Board
+- OLED Display (SSD1306 / SSD1106)
+- Breadboard
+- Jumper wires
+
+---
+
+## 🔌 Wiring (I2C)
+
+| OLED | ESP32 |
+|------|------|
+| VCC  | 3.3V |
+| GND  | GND  |
+| SDA  | GPIO 21 |
+| SCL  | GPIO 22 |
+
+---
+
+## 📁 Project Structure
+
+- `/SSD1306` → Code for SSD1306  
+- `/SSD1106` → Code for SSD1106  
+
+---
+
+## ⚡ Features
+- Smooth animation playback  
+- Frame-based rendering  
+- Lightweight & optimized  
+
+---
+
+## 🚀 How to Run
+1. Install libraries:
+   - Adafruit GFX  
+   - Adafruit SSD1306  
+   - U8g2 (for SSD1106)
+
+2. Upload code from respective folder  
+
+3. Enjoy 😎  
+
+---
+
+## 📌 Notes
+- SSD1106 uses U8g2  
+- Adjust delay for FPS tuning  
+
+---
+
+Made with ❤️ by Surya.S
+Follow @sparky.fpv on Instagram
