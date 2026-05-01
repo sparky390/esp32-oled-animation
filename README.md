@@ -80,5 +80,9 @@ Smooth frame-based animation on 128x64 OLED.
 
 ---
 
--Made with ❤️ by Surya.S
--Follow @sparky.fpv on Instagram
+---
+
+<p align="center">
+  Made with ❤️ by <b>Surya S</b><br>
+  Follow on Instagram: <a href="https://instagram.com/sparky.fpv">@sparky.fpv</a>
+</p>
