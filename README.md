@@ -89,12 +89,6 @@ Smooth frame-based animation on 128x64 OLED.
 ---
 
 ---
-
-<p align="center">
-  Made with ❤️ by <b>Surya S</b><br>
-  Follow on Instagram: <a href="https://instagram.com/sparky.fpv">@sparky.fpv</a>
-</p>
-
 🔍 Keywords
 
 - ESP32 OLED animation  
@@ -106,4 +100,11 @@ Smooth frame-based animation on 128x64 OLED.
 - embedded systems project  
 - ESP32 graphics  
 - DIY electronics  
-- microcontroller projects  
+- microcontroller projects 
+---
+
+<p align="center">
+  Made with ❤️ by <b>Surya S</b><br>
+  Follow on Instagram: <a href="https://instagram.com/sparky.fpv">@sparky.fpv</a>
+</p>
+
