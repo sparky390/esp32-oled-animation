@@ -62,7 +62,7 @@ Smooth frame-based animation on 128x64 OLED.
 | SDA  | GPIO 21 |
 | SCL  | GPIO 22 |
 </td>
-  <td>
+  <td style="padding-right:30px; vertical-align: top;">
     <img src="images/wiring.png" width="300"/>
   </td>
 </tr>
