@@ -61,6 +61,11 @@ Smooth frame-based animation on 128x64 OLED.
 | GND  | GND  |
 | SDA  | GPIO 21 |
 | SCL  | GPIO 22 |
+</td>
+  <td>
+    <img src="images/wiring.png" width="300"/>
+  </td>
+</tr>
 
 ---
 
